@@ -1,0 +1,108 @@
+/**
+ * build.gradle - Main Gradle project build script.
+ */
+buildscript {
+    // Project-wide constants
+    ext.checkstyle_version = '8.10'
+    ext.jacoco_version = '0.8.1'
+    ext.java_version = '1.8'
+    ext.junit5_version = '5.2.0'
+    ext.kotlin_version = '1.2.31'
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+// Use core Gradle plugins or plugins published on Gradle plugin repository
+plugins {
+    id 'checkstyle'
+    id 'jacoco'
+    id 'java'
+    id 'org.springframework.boot' version '2.0.1.RELEASE'
+}
+
+// Describe project metadata (?)
+group 'to.adian'
+version '1.0-SNAPSHOT'
+
+// Set Java version compatibility
+sourceCompatibility = java_version
+targetCompatibility = java_version
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    implementation "com.linecorp.bot:line-bot-spring-boot:1.15.0"
+    testImplementation "org.junit.jupiter:junit-jupiter-api:$junit5_version"
+    testImplementation "org.springframework.boot:spring-boot-starter-test"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:$junit5_version"
+    testRuntimeOnly "org.junit.vintage:junit-vintage-engine:$junit5_version"
+    testRuntimeOnly "org.junit.platform:junit-platform-launcher:1.2.0"
+}
+
+// Configure Checkstyle plugin
+checkstyle {
+    configFile = file("config/checkstyle/google_csui_checks.xml")
+    maxWarnings = 0
+    maxErrors = 0
+    toolVersion = checkstyle_version
+}
+
+// Configure Jacoco code coverage plugin
+jacoco {
+    toolVersion = jacoco_version
+}
+
+jacocoTestCoverageVerification {
+    violationRules {
+        rule {
+            limit {
+                minimum = 0.7
+            }
+        }
+    }
+}
+
+// Configure Java compilation task
+compileJava {
+    options.compilerArgs.add("-Xlint:all")
+    options.compilerArgs.add("-Werror")
+    options.compilerArgs.add("-Xlint:-processing")
+    options.compilerArgs.add("-parameters")
+}
+
+// Configure Gradle test to use JUnit 5 platform
+test {
+    useJUnitPlatform()
+
+    reports {
+        html.enabled = true
+    }
+}
+
+// Use Spring dependency management plugin
+// See https://docs.spring.io/spring-boot/docs/2.0.1.RELEASE/gradle-plugin/reference/html/
+apply plugin: 'io.spring.dependency-management'
+
+// Use & configure Kotlin plugin
+apply plugin: 'kotlin'
+
+compileKotlin {
+    kotlinOptions.jvmTarget = java_version
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = java_version
+}
+
+// Add 'stage' task required by Heroku
+task stage(dependsOn: ['bootJar', 'clean']) {
+    bootJar.mustRunAfter clean
+}

@@ -1,0 +1,37 @@
+image: gradle:4.7-jdk8-alpine
+
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+
+before_script:
+  - export GRADLE_USER_HOME=`pwd`/.gradle
+
+Build:
+  stage: build
+  script:
+    - gradle clean build --refresh-dependencies
+
+Test:
+  stage: test
+  script:
+    - gradle check
+    - gradle jacocoTestReport
+    - gradle jacocoTestCoverageVerification
+
+DeployProduction:
+  image: ruby:2.4
+  stage: deploy
+  before_script:
+    - gem install dpl
+    - wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
+  script:
+    - dpl --provider=heroku --app=$HEROKU_APP_NAME --api-key=$HEROKU_API_KEY
+  when: manual
+  environment:
+    name: production
+    url: $HEROKU_APP_HOST
