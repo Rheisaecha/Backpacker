@@ -20,6 +20,11 @@ public class EchoController {
                 event.getTimestamp(), event.getMessage()));
         TextMessageContent content = event.getMessage();
         String contentText = content.getText();
+        if contentText.equals("Dago")
+        {
+            return new TextMessage("1. Dago Dream Park");
+
+        }
 
         String replyText = contentText.replace("/echo", "");
         return new TextMessage(replyText.substring(1));
