@@ -7,6 +7,7 @@ import com.linecorp.bot.model.message.TextMessage;
 import com.linecorp.bot.spring.boot.annotation.EventMapping;
 import com.linecorp.bot.spring.boot.annotation.LineMessageHandler;
 
+
 import java.util.logging.Logger;
 
 @LineMessageHandler
@@ -20,14 +21,17 @@ public class EchoController {
                 event.getTimestamp(), event.getMessage()));
         TextMessageContent content = event.getMessage();
         String contentText = content.getText();
-        if contentText.equals("Dago")
-        {
-            return new TextMessage("1. Dago Dream Park");
-
+        if (contentText.equalsIgnoreCase("kemana")){
+            return new TextMessage("Sebelum itu masukin dulu nama kota yang akan kamu tuju");
         }
-
+        if (contentText.equalsIgnoreCase("bandung")){
+            return new TextMessage("Nah sekarang kasih kita daerah kamu menginap dong");
+        }
+        if (contentText.equalsIgnoreCase("dago")){
+            return new TextMessage("Berikut daftar destinasi wisata disekitar tempat kamu menginap");
+        }
         String replyText = contentText.replace("/echo", "");
-        return new TextMessage(replyText.substring(1));
+        return new TextMessage("Ketik Kemana untuk memulai");
     }
 
     @EventMapping
