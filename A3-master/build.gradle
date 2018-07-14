@@ -46,6 +46,10 @@ dependencies {
     testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:$junit5_version"
     testRuntimeOnly "org.junit.vintage:junit-vintage-engine:$junit5_version"
     testRuntimeOnly "org.junit.platform:junit-platform-launcher:1.2.0"
+    compile 'org.jsoup:jsoup:1.11.3'
+    compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.16.20'
+    compile 'com.squareup.okhttp3:okhttp:3.10.0'
+    compile group: 'org.json', name: 'json', version: '20180130'
 }
 
 // Configure Checkstyle plugin
