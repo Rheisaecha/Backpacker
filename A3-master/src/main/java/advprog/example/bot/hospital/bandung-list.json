@@ -1,0 +1,152 @@
+[
+  {
+    "name" : "Farmhouse Lembang",
+    "address" : "Jl. Raya Lembang No.108, Gudangkahuripan, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8329746,
+    "longitude" : 107.6057443,
+    "phone" : "(022) 82782400",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2017/08/farmhouse-lembang-bandung.jpg",
+    "description" : "Farmhouse adalah tempat wisata yang menyediakan hiburan berupa suasana yang sejuk, tempat yang asri serta nuansa vintage yang kental. Selain itu farmhouse juga menawarkan susu lembang gratis pada para pengunjung",
+    "harga" : "Rp. 20.000"
+  },
+  {
+    "name" : "Glamping Lakeside Ciwidey",
+    "address" : "Jalan Raya Ciwidey Situ Patengan Km. 39, Patengan, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.1670176,
+    "longitude" : 107.35406,
+    "phone" : "0821-8002-8888",
+    "imageLink" : "https://explorewisata.com/wp-content/uploads/2017/01/Glamping-Lakeside-Rancabali.jpg",
+    "description" : "Glamping Lakeside adalah tempat wisata yang menyuguhkan pemandangan indah di atas kapal karam sembari menyediakan makanan yang tentunya lezat untuk disantap ",
+    "harga" : "Rp. 20.000"
+  },
+  {
+    "name" : "Tangkuban Perahu",
+    "address" : "Jalan Raya Tangkuban Perahu No 282, Cikole, lembang, Kab.Bandung Barat 40391.",
+    "latitude" : -6.7596377,
+    "longitude" : 107.6097807,
+    "phone" : "-",
+    "imageLink" : "http://www.datawisata.com/wp-content/uploads/2018/04/Gunung-Tangkuban-Perahu-Bandung-1024x573.jpg",
+    "description" : "Tangkuban Perahu adalah sebuah gunung legenda yang dalam mitologinya merupakan sebuah perahu yang berubah menjadi gunung setelah ditendang oleh sangkuriang",
+    "harga" : "Rp. 20.000- Rp. 30.000"
+  },
+  {
+    "name" : "Kawah Putih Ciwidey",
+    "address" : " Jl. Raya Soreang, Ciwidey, Bandung, Jawa Barat",
+    "latitude" : -7.1662039,
+    "longitude" : 107.4021256,
+    "phone" : "-",
+    "imageLink" : "http://www.pikiran-rakyat.com/sites/files/public/styles/portrait_safe/public/image/2017/08/Kawah%20Putih%204.jpeg?itok=iViM-aNL",
+    "description" : "Kawah Putih adalah sebuah wisata kawah yang menawarkan pemandangan tidak biasa serta menjadi spot ciamik untuk berfoto ria.",
+    "harga" : "Rp. 20.000"
+  },
+  {
+    "name" : "Situ Patenggang",
+    "address" : "Jln Ciwidey Ranca Bali, Desa Patengan, Ranca Bali, Bandung,",
+    "latitude" : -7.1669649,
+    "longitude" : 107.3575344,
+    "phone" : "-",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2014/09/situ-patenggang-pagi-hari.jpg",
+    "description" : "Situ patenggang adalah situ yang sangat besar dan juga menawarkan pemandangan alam yang indah. Di sana kita dapat naik perahu memetik strawberry dan kegiatan seru lainnya",
+    "harga" : "Rp. 18.000- Rp. 20.500"
+  },
+  {
+    "name" : "Bukit Moko",
+    "address" : "Cimenyan, Bandung, West Java 40197",
+    "latitude" : -6.8422202,
+    "longitude" : 107.6767988,
+    "phone" : "-",
+    "imageLink" : "https://storage.googleapis.com/tempatwisataunik/2017/11/71b89d2d-lokasi-bukit-moko-300x173.jpg",
+    "description" : "Bukit Moko atau Puncak Bintang adalah tempat yang berisi pohon pinus dan menjadi salah satu spot foto terbaik yang instagramable",
+    "harga" : "Rp. 8.000"
+  },
+  {
+    "name" : "Saung Angklung Udjo",
+    "address" : "Jl. Padasuka No.118, Pasirlayung, Cibeunying Kidul, Kota Bandung, Jawa Barat 40192",
+    "latitude" : -6.898032,
+    "longitude" : 107.654965,
+    "phone" : "(022) 7271714",
+    "imageLink" : "http://anekatempatwisata.com/wp-content/uploads/2014/07/Saung-Angklung-Udjo-5.jpg",
+    "description" : "Tempat dimana kalian bisa mempelajari alat musik tradisional bandung yang melegenda yaitu angklung",
+    "harga" : "Rp. 60.000"
+  },
+  {
+    "name" : "Museum Geologi",
+    "address" : "Jl. Diponegoro No.57, Cihaur Geulis, Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",
+    "latitude" : -6.9007084,
+    "longitude" : 107.6214906,
+    "phone" : "(022) 7213822",
+    "imageLink" : "http://anekatempatwisata.com/wp-content/uploads/2014/07/Museum-Geologi-Bandung.jpg",
+    "description" : "Tempat untuk belajar dan mengeksplor tentang zaman pra sejarah manusia. Terdapat kerangka dinosaurus dan manusia purba yang dapat menambah wawasan ",
+    "harga" : "Rp. 3.000"
+  },
+  {
+    "name" : "Tebing Keraton",
+    "address" : "Lembang, Ciburial, Cimenyan, Ciburial, Cimenyan, Ciburial, Cimenyan, Kabupaten Bandung Barat, Jawa Barat 40198",
+    "latitude" : -6.8450341,
+    "longitude" : 107.654568,
+    "phone" : "-",
+    "imageLink" : "https://i1.wp.com/www.sharetempatwisata.com/wp-content/uploads/2017/10/tebing-keraton-lembang.jpg?resize=609%2C338",
+    "description" : "Tebing keraton menyuguhkan wisata yang sangat menarik. Pengunjung dapat berdiri di ujung tebing sembari berfoto dan menikmati pemandangan.",
+    "harga" : "Rp. 12.000"
+  },
+  {
+    "name" : "Dusun Bambu",
+    "address" : "No.KM 11, Jl. Kolonel Masturi, Situ Lembang, Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",
+    "latitude" : -6.7896815,
+    "longitude" : 107.5791506,
+    "phone" : "(022) 82782020",
+    "imageLink" : "https://i0.wp.com/www.sharetempatwisata.com/wp-content/uploads/2017/10/dusun-bambu.jpg?fit=600%2C386&ssl=1",
+    "description" : "Dusun Bambu adalah tempat wisata yang menawarkan pemandangan bunga di sekelilingnya. Serta menawarkan spot foto terbaik dari berbagai angle",
+    "harga" : "Rp. 15.000"
+  },
+  {
+    "name" : "The Lodge",
+    "address" : "Jalan Maribaya No. 149/252, RT. 03 / RW. 15, Babakan Gentong, Cibodas, Lembang, Cibodas, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8290521,
+    "longitude" : 107.6879359,
+    "phone" : "(022) 20454830",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2017/11/sky-tree-di-the-lodge-maribaya-lembang.jpg",
+    "description" : "The Lodge menawarkan pemandangan hutan pinus dan hijaunya daerah sekitar. The lodge juga menyediakan outbond, camping hingga berkuda.",
+    "harga" : "Rp. 30.000"
+  },
+   {
+    "name" : "Ciwidey Valley",
+    "address" : "Jl. Barutunggul KM. 17, Ciwidey, Alamendah, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.1199794,
+    "longitude" : 107.4320732,
+    "phone" : "(022) 85920222",
+    "imageLink" : "http://www.hargatiketmasuk.info/wp-content/uploads/2016/10/Harga-Tiket-Masuk-Ciwidey-Valley-Resort-Terbaru-1024x767.jpg",
+    "description" : "Ciwidey Valley adalah tempat untuk camping, resort dan juga kolam berenang air panas yang tentu saja memiliki daya tarik sendiri karena suhu di ciwidey sangatlah dingin.",
+    "harga" : "Rp. 20.000"
+  },
+   {
+    "name" : "Trans Studio Bandung",
+    "address" : "Jl. Gatot Subroto No.289, Cibangkong, Batununggal, Kota Bandung, Jawa Barat 40273",
+    "latitude" : -6.9255837,
+    "longitude" : 107.6366996,
+    "phone" : "(022) 86012555",
+    "imageLink" : "https://i.ytimg.com/vi/0A3AVzoZJuA/maxresdefault.jpg",
+    "description" : "Trans Studio adalah taman bermain yang menyuguhkan berbagai wahana seperti negeri raksasa, jelajah hingga bocah petualang",
+    "harga" : "Rp. 180.000-Rp. 280.000"
+  },
+   {
+    "name" : "De Ranch",
+    "address" : "Jl. Maribaya No.17, Kayuambon, Lembang, Kayuambon, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8151351,
+    "longitude" : 107.6266597,
+    "phone" : "(022) 2785865",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2018/03/wahana-kuda-de-ranch-bandung.jpg",
+    "description" : "De Ranch adalah tempat wisata yang menawarkan sensasi wisata ala koboi amerika dengan suasana peternakan. De Ranch menyediakan aneka jenis permainan anak hingga dewasa.",
+    "harga" : "Rp. 5.000"
+  },
+    {
+    "name" : "Rancaupas",
+    "address" : "Jl. Raya Ciwidey - Patengan No.KM. 11, Patengan, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.142808,
+    "longitude" : 107.392426,
+    "phone" : "(022) 7808996",
+    "imageLink" : "https://explorewisata.com/wp-content/uploads/2017/12/penangkaran-rusa-di-ranca-upas.jpg",
+    "description" : "Rancaupas adalah tempat wisata yang menawarkan camping ground sebagai daya tariknya. Selain itu rancaupas juga memiliki ratusan rusa yang dapat diajak foto dan diberi makan sehingga menjadi daya tarik sendiri bagi pengunjung.",
+    "harga" : "Rp. 10.000"
+  }
+]
