@@ -32,40 +32,5 @@ public class EchoControllerTest {
     @Autowired
     private EchoController echoController;
 
-    @Test
-    void testHandleRequestHospitalByUser() throws Exception {
-        TextMessageContent textMessageContent = new TextMessageContent("123", "/hospital");
-        MessageEvent<TextMessageContent> event = new MessageEvent<>(
-                "123", new UserSource("1234"), textMessageContent, Instant.now()
-        );
-        echoController.handleTextMessageEvent(event);
-        LocationMessageContent locationMessageContent =
-                new LocationMessageContent("123",
-                        "Faculty of Computer Science, University of Indonesia",
-                        "Kampus UI Depok, Pd. Cina, Beji, Kota Depok, Jawa Barat 16424",
-                        -6.3646009, 106.8264999);
-        MessageEvent<LocationMessageContent> event2 = new MessageEvent<>(
-                "123", new UserSource("1234"), locationMessageContent, Instant.now()
-        );
-        echoController.handleLocationMessageEvent(event2);
-    }
-
-    @Test
-    void testHandleTextMessageRequestRandomHospitalByUser() {
-        TextMessageContent textMessageContent = new TextMessageContent("123", "/random_hospital");
-        MessageEvent<TextMessageContent> event = new MessageEvent<>(
-                "123", new UserSource("1234"), textMessageContent, Instant.now()
-        );
-        echoController.handleTextMessageEvent(event);
-    }
-
-    @Test
-    void testHandleDefaultMessage() {
-        Event event = mock(Event.class);
-
-        echoController.handleDefaultMessage(event);
-
-        verify(event, atLeastOnce()).getSource();
-        verify(event, atLeastOnce()).getTimestamp();
-    }
+    
 }

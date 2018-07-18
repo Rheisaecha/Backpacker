@@ -1,0 +1,227 @@
+[
+  {
+    "name" : "Farmhouse Lembang",
+    "address" : "Jl. Raya Lembang No.108, Gudangkahuripan, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8329746,
+    "longitude" : 107.6057443,
+    "phone" : "(022) 82782400",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2017/08/farmhouse-lembang-bandung.jpg",
+    "description" : "Farmhouse adalah tempat wisata yang menyediakan hiburan berupa suasana yang sejuk, tempat yang asri serta nuansa vintage yang kental. Selain itu farmhouse juga menawarkan susu lembang gratis pada para pengunjung"
+  },
+  {
+    "name" : "Glamping Lakeside Ciwidey",
+    "address" : "Jalan Raya Ciwidey Situ Patengan Km. 39, Patengan, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.1670176,
+    "longitude" : 107.35406,
+    "phone" : "0821-8002-8888",
+    "imageLink" : "https://explorewisata.com/wp-content/uploads/2017/01/Glamping-Lakeside-Rancabali.jpg",
+    "description" : "Glamping Lakeside adalah tempat wisata yang menyuguhkan pemandangan indah di atas kapal karam sembari menyediakan makanan yang tentunya lezat untuk disantap "
+  },
+  {
+    "name" : "Tangkuban Perahu",
+    "address" : "Jalan Raya Tangkuban Perahu No 282, Cikole, lembang, Kab.Bandung Barat 40391.",
+    "latitude" : -6.7596377,
+    "longitude" : 107.6097807,
+    "phone" : "-",
+    "imageLink" : "http://www.datawisata.com/wp-content/uploads/2018/04/Gunung-Tangkuban-Perahu-Bandung-1024x573.jpg",
+    "description" : "Tangkuban Perahu adalah sebuah gunung legenda yang dalam mitologinya merupakan sebuah perahu yang berubah menjadi gunung setelah ditendang oleh sangkuriang"
+  },
+  {
+    "name" : "Kawah Putih Ciwidey",
+    "address" : " Jl. Raya Soreang, Ciwidey, Bandung, Jawa Barat",
+    "latitude" : -7.1662039,
+    "longitude" : 107.4021256,
+    "phone" : "-",
+    "imageLink" : "http://www.pikiran-rakyat.com/sites/files/public/styles/portrait_safe/public/image/2017/08/Kawah%20Putih%204.jpeg?itok=iViM-aNL",
+    "description" : "Kawah Putih adalah sebuah wisata kawah yang menawarkan pemandangan tidak biasa serta menjadi spot ciamik untuk berfoto ria."
+  },
+  {
+    "name" : "Situ Patenggang",
+    "address" : "Jln Ciwidey Ranca Bali, Desa Patengan, Ranca Bali, Bandung,",
+    "latitude" : -7.1669649,
+    "longitude" : 107.3575344,
+    "phone" : "-",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2014/09/situ-patenggang-pagi-hari.jpg",
+    "description" : "Situ patenggang adalah situ yang sangat besar dan juga menawarkan pemandangan alam yang indah. Di sana kita dapat naik perahu memetik strawberry dan kegiatan seru lainnya"
+  },
+  {
+    "name" : "Bukit Moko",
+    "address" : "Cimenyan, Bandung, West Java 40197",
+    "latitude" : -6.8422202,
+    "longitude" : 107.6767988,
+    "phone" : "-",
+    "imageLink" : "https://storage.googleapis.com/tempatwisataunik/2017/11/71b89d2d-lokasi-bukit-moko-300x173.jpg",
+    "description" : "Bukit Moko atau Puncak Bintang adalah tempat yang berisi pohon pinus dan menjadi salah satu spot foto terbaik yang instagramable"
+  },
+  {
+    "name" : "Saung Angklung Udjo",
+    "address" : "Jl. Padasuka No.118, Pasirlayung, Cibeunying Kidul, Kota Bandung, Jawa Barat 40192",
+    "latitude" : -6.898032,
+    "longitude" : 107.654965,
+    "phone" : "(022) 7271714",
+    "imageLink" : "http://anekatempatwisata.com/wp-content/uploads/2014/07/Saung-Angklung-Udjo-5.jpg",
+    "description" : "Tempat dimana kalian bisa mempelajari alat musik tradisional bandung yang melegenda yaitu angklung"
+  },
+  {
+    "name" : "Museum Geologi",
+    "address" : "Jl. Diponegoro No.57, Cihaur Geulis, Cibeunying Kaler, Kota Bandung, Jawa Barat 40122",
+    "latitude" : -6.9007084,
+    "longitude" : 107.6214906,
+    "phone" : "(022) 7213822",
+    "imageLink" : "http://anekatempatwisata.com/wp-content/uploads/2014/07/Museum-Geologi-Bandung.jpg",
+    "description" : "Tempat untuk belajar dan mengeksplor tentang zaman pra sejarah manusia. Terdapat kerangka dinosaurus dan manusia purba yang dapat menambah wawasan "
+  },
+  {
+    "name" : "Tebing Keraton",
+    "address" : "Lembang, Ciburial, Cimenyan, Ciburial, Cimenyan, Ciburial, Cimenyan, Kabupaten Bandung Barat, Jawa Barat 40198",
+    "latitude" : -6.8450341,
+    "longitude" : 107.654568,
+    "phone" : "-",
+    "imageLink" : "https://i1.wp.com/www.sharetempatwisata.com/wp-content/uploads/2017/10/tebing-keraton-lembang.jpg?resize=609%2C338",
+    "description" : "Tebing keraton menyuguhkan wisata yang sangat menarik. Pengunjung dapat berdiri di ujung tebing sembari berfoto dan menikmati pemandangan."
+  },
+  {
+    "name" : "Dusun Bambu",
+    "address" : "No.KM 11, Jl. Kolonel Masturi, Situ Lembang, Cisarua, Kabupaten Bandung Barat, Jawa Barat 40551",
+    "latitude" : -6.7896815,
+    "longitude" : 107.5791506,
+    "phone" : "(022) 82782020",
+    "imageLink" : "https://i0.wp.com/www.sharetempatwisata.com/wp-content/uploads/2017/10/dusun-bambu.jpg?fit=600%2C386&ssl=1",
+    "description" : "Dusun Bambu adalah tempat wisata yang menawarkan pemandangan bunga di sekelilingnya. Serta menawarkan spot foto terbaik dari berbagai angle"
+  },
+  {
+    "name" : "The Lodge",
+    "address" : "Jalan Maribaya No. 149/252, RT. 03 / RW. 15, Babakan Gentong, Cibodas, Lembang, Cibodas, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8290521,
+    "longitude" : 107.6879359,
+    "phone" : "(022) 20454830",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2017/11/sky-tree-di-the-lodge-maribaya-lembang.jpg",
+    "description" : "The Lodge menawarkan pemandangan hutan pinus dan hijaunya daerah sekitar. The lodge juga menyediakan outbond, camping hingga berkuda."
+  },
+   {
+    "name" : "Ciwidey Valley",
+    "address" : "Jl. Barutunggul KM. 17, Ciwidey, Alamendah, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.1199794,
+    "longitude" : 107.4320732,
+    "phone" : "(022) 85920222",
+    "imageLink" : "http://www.hargatiketmasuk.info/wp-content/uploads/2016/10/Harga-Tiket-Masuk-Ciwidey-Valley-Resort-Terbaru-1024x767.jpg",
+    "description" : "Ciwidey Valley adalah tempat untuk camping, resort dan juga kolam berenang air panas yang tentu saja memiliki daya tarik sendiri karena suhu di ciwidey sangatlah dingin."
+  },
+   {
+    "name" : "Trans Studio Bandung",
+    "address" : "Jl. Gatot Subroto No.289, Cibangkong, Batununggal, Kota Bandung, Jawa Barat 40273",
+    "latitude" : -6.9255837,
+    "longitude" : 107.6366996,
+    "phone" : "(022) 86012555",
+    "imageLink" : "https://i.ytimg.com/vi/0A3AVzoZJuA/maxresdefault.jpg",
+    "description" : "Trans Studio adalah taman bermain yang menyuguhkan berbagai wahana seperti negeri raksasa, jelajah hingga bocah petualang"
+  },
+   {
+    "name" : "De Ranch",
+    "address" : "Jl. Maribaya No.17, Kayuambon, Lembang, Kayuambon, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391",
+    "latitude" : -6.8151351,
+    "longitude" : 107.6266597,
+    "phone" : "(022) 2785865",
+    "imageLink" : "https://www.nativeindonesia.com/wp-content/uploads/2018/03/wahana-kuda-de-ranch-bandung.jpg",
+    "description" : "De Ranch adalah tempat wisata yang menawarkan sensasi wisata ala koboi amerika dengan suasana peternakan. De Ranch menyediakan aneka jenis permainan anak hingga dewasa."
+  },
+    {
+    "name" : "Rancaupas",
+    "address" : "Jl. Raya Ciwidey - Patengan No.KM. 11, Patengan, Rancabali, Bandung, Jawa Barat 40973",
+    "latitude" : -7.142808,
+    "longitude" : 107.392426,
+    "phone" : "(022) 7808996",
+    "imageLink" : "https://explorewisata.com/wp-content/uploads/2017/12/penangkaran-rusa-di-ranca-upas.jpg",
+    "description" : "Rancaupas adalah tempat wisata yang menawarkan camping ground sebagai daya tariknya. Selain itu rancaupas juga memiliki ratusan rusa yang dapat diajak foto dan diberi makan sehingga menjadi daya tarik sendiri bagi pengunjung."
+  },
+  {
+    "name" : "Taman Mini Indonesia Indah",
+    "address" : "Taman Mini Indonesia Indah, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.302409,
+    "longitude" : 106.895110,
+    "phone" : "(021) 87792078",
+    "imageLink" : "https://mytrip123.com/wp-content/uploads/2017/02/tmii-jakarta.jpg",
+    "description" : "Tempat wisata dengan luas 150 hektare ini berlokasi di Jakarta Timur dan beroperasi Senin hingga Minggu. Dengan harga tiket berbeda-beda tiap wahananya.Selain itu ada sejumlah taman, museum, beragam tempat ibadah, teater, dan wahana rekreasi menyenangkan lainnya."
+  },
+  {
+    "name" : "Monumen Nasional",
+    "address" : "Monumen Nasional, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.175388,
+    "longitude" : 106.827236,
+    "phone" : "(021) 3822255",
+    "imageLink" : "https://storage.googleapis.com/tempatwisataunik/2016/01/Monas-Jakarta-300x222.jpg",
+    "description" : "Monas adalah monumen peringatan untuk mengenang perjuangan bangsa Indonesia dalam merebut kemerdekaan dan memberi perlawanan kepada penjajah Belanda. Monas memiliki tinggi 132 meter atau 433 kaki.Monumen dan museum yang ada di dalamnya buka setiap hari mulai dari pukul 08.00-15.00. Pada hari Senin di minggu terakhir Monumen ditutup setiap bulannya."
+  },
+  {
+    "name" : "Taman Impian Jaya Ancol",
+    "address" : "Jalan Lodan Timur No.7, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+    "latitude" : -6.125538,
+    "longitude" : 106.838163,
+    "phone" : "(021) 29222222",
+    "imageLink" : "https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/228/2017/12/06033237/Ancol.jpg",
+    "description" : "Taman Impian Jaya Ancol berdiri di atas lahan seluas 552 hektar dengan lokasi yang dekat pantai terbaik di ibukota, dan dapat dicapai menggunakan transportasi apa saja, membuat obyek wisata ini sangat populer dan tak pernah sepi kunjungan wisatawan.Tempat dengan wahana permainan berteknologi tinggi, variasi permainan yang banyak, tak hanya permainan untuk anak saja melainkan juga bagi orang dewasa. Semua bisa kita temukan di Ancol dan merupakan tempat wisata yang cocok untuk anak muda."
+  },
+  {
+    "name" : "Museum Fatahillah",
+    "address" : "Jalan Taman Fatahillah No.1, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+    "latitude" : -6.135110,
+    "longitude" : 106.813168,
+    "phone" : "(021) 6929101",
+    "imageLink" : "https://thumbnails.trvl-media.com/op8erG1aOMSRqGTLzXmTqUEzEh4=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/1704/Jakarta-History-Museum-210341.jpg",
+    "description" : "Museum dengan nama populer 'Museum Fatahillah' ini menyimpan 23.500 koleksi barang bersejarah, baik dalam bentuk benda asli maupun replika.Berbagai koleksi yang ada dipamerkan dalam beberapa ruangan, sesuai periode asalnya.Pembagian ruangan ini dan penataan koleksi yang ada sangat mempertimbangkan aspek artistik dengan harapan dapat berfungsi seoptimal mungkin sebagai sumber informasi bagi masyarakat."
+  },
+  {
+    "name" : "Dunia Fantasi",
+    "address" : "Jalan Lodan Timur No.7, RW.10, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+    "latitude" : -6.124542,
+    "longitude" : 106.832140,
+    "phone" : "(021) 29222222",
+    "imageLink" : "http://cdn2.tstatic.net/wartakota/foto/bank/images/dunia-fantasi_20171125_174536.jpg",
+    "description" : "Dunia Fantasi merupakan salah satu pelopor theme park di Indonesia yang berdiri di kawasan wisata Taman Impian Jaya Ancol sejak tahun 1985. Dengan berbagai wahana menarik dan menantang, Dunia Fantasi atau Dufan menyediakan pusat hiburan paling seru dan lengkap untuk didatangi bersama orang-orang tercinta."
+  },
+  {
+    "name" : "Kebun Binatang Ragunan",
+    "address" : "Jl. Harsono No.1, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.311672,
+    "longitude" : 106.820170,
+    "phone" : "(021) 78847114",
+    "imageLink" : "https://www.menginspirasi.com/wp-content/uploads/2018/01/ragunan.jpg",
+    "description" : "Kebun Binatang Ragunan merupakan rumah bagi berbagai satwa yang terdiri dari 295 spesies. Di Ragunan pengelola juga tidak hanya memamerkan berbagai koleksi hewan mereka tetapi juga menyediakan wahana edukatif untuk para pengunjung terutama anak usia sekolah.Setidaknya ada 3 wahana yang ditawarkan yaitu Pusat Primata Schmutzer yang merupakan museum primata terlengkap, Dunia Orang Utan dengan koleksi berbagai jenis orang utan, dan Children Zoo tempat anak-anak berinteraksi langsung dengan hewan-hewan jinak."
+  },
+  {
+    "name" : "Seaworld Ancol",
+    "address" : "Jalan Lodan Timur No.7, RW.10, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+    "latitude" : -6.125753,
+    "longitude" : 106.842869,
+    "phone" : "(021) 29222222",
+    "imageLink" : "http://img.ulinulin.com/uploads/media_item/file/38434/big_slider_95ada4ecd2b0e2d226ed1668cf8a83d4.jpg",
+    "description" : "Anda bisa merasakan sensasi seru berjalan di bawah air dan berinteraksi dengan berbagai ikan-ikan yang memesona di Seaworld Jakarta. Ada ribuan biota laut yang menjadi koleksi tempat wisata unik tersebut."
+  },
+  {
+    "name" : "Kepulauan Seribu",
+    "address" : "Kepulauan Seribu",
+    "latitude" : -5.794518,
+    "longitude" : 106.483708,
+    "phone" : "(021) 22602525",
+    "imageLink" : "https://blog.traveloka.com/wp-content/uploads/2017/09/kepulauan_seribu_jakarta_bs1.jpg",
+    "description" : "Kepulauan Seribu merupakan gugusan pulau-pulau baik yang berpenghuni maupun tidak dan berlokasi di Selat Sunda, utara Jakarta. Setidaknya ada 5 pulau besar di kawasan kepulauan Seribu yang sering dikunjungi wisatawan dan menjadi spot favorit berlibur turis lokal maupun mancanegara.Pulau tersebut adalah Pulau Kelor, Cipir, Onrust, Rambut dan Untung Jawa. Setiap pulau memiliki daya tarik dan keunikan masing-masing. Di Pulau Kelor, Cipir, dan Onrust pengunjung dapat melihat reruntuhan bangunan peninggalan masa kolonial dan museum Pulau Onrust."
+  },
+  {
+    "name" : "Pasar Tanah Abang",
+    "address" : "Jl. K.H. Mas Mansyur, Kp. Bali, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",
+    "latitude" : -6.187648,
+    "longitude" : 106.814398,
+    "phone" : "-",
+    "imageLink" : "http://jakarta-tourism.go.id/2017/uploads/default/files/PS.Tanah_Abang_.jpg",
+    "description" : "Tanah Abang merupakan salah satu pusat grosir pakaian terbesar di Asia Tenggara.Tanah Abang menjadi salah satu tempat belanja favorit wisatawan dari dalam maupun luar negeri. Soal harga dan kualitas, barang-barang yang dijual di Tanah Abang tidak kalah dengan yang dijual di pusat perbelanjaan luar negeri seperti di Orchad Singapura atau Central Market Malaysia. Tidak heran jika banyak barang dari pasar ini yang diekspor dan dijual lagi di luar negeri. Tanah Abang buka mulai jam 09.00 hingga 22.00 WIB. Saat mengunjungi pasar yang terdiri dari 12 lantai ini, pastikan Anda menggunakan pakaian dan alas kaki yang nyaman."
+  },
+   {
+    "name" : "Taman Wisata Alam Mangrove, Angke Kapuk",
+    "address" : "Jalan Garden House RT.8/RW.1 Kamal Muara Penjaringan, RT.8/RW.1, Kamal Muara, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14470",
+    "latitude" : -6.105176,
+    "longitude" : 106.735592,
+    "phone" : "(021) 29033066",
+    "imageLink" : "https://www.jejakpiknik.com/wp-content/uploads/2017/09/5-raun2nomaden-630x380.jpg",
+    "description" : "Di sini Anda dapat menyusuri hutan bakau sambil sesekali melihat beberapa fauna yang hidup di habitat aslinya. Salah satu fauna yang bisa ditemukan di sini adalah biawak. Jika menyewa kapal, pengemudi kapal biasanya hafal betuk di mana letak setiap biawak yang hidup di kawasan hutan bakau. Jangan lupa untuk mengabadikan setiap momen seru di sini, karena keindahan alam Angke Kapuk patut diabadikan dan dipajang di halaman Instagram Anda."
+  }
+]

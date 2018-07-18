@@ -41,7 +41,7 @@ import org.json.JSONObject;
 @LineMessageHandler
 public class EchoController {
     private static String currentStage = "";
-    private String path = "./src/main/java/advprog/example/bot/hospital/hospital-list.json";
+    private String path = "./src/main/java/advprog/example/bot/hospital/destinasi-list.json";
     private BufferedReader bufferedReader = new BufferedReader(new FileReader(path));
     private ObjectMapper objectMapper = new ObjectMapper();
     private Hospital[] hospitals = objectMapper.readValue(bufferedReader, Hospital[].class);

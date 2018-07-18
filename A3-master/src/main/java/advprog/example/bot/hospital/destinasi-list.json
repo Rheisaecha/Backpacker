@@ -1,0 +1,56 @@
+[
+  {
+    "name" : "Taman Mini Indonesia Indah",
+    "address" : "Taman Mini Indonesia Indah, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.302409,
+    "longitude" : 106.895110,
+    "phone" : "(021) 87792078",
+    "imageLink" : "https://mytrip123.com/wp-content/uploads/2017/02/tmii-jakarta.jpg",
+    "description" : "Tempat wisata dengan luas 150 hektare ini berlokasi di Jakarta Timur dan beroperasi Senin hingga Minggu. Dengan harga tiket berbeda-beda tiap wahananya.Selain itu ada sejumlah taman, museum, beragam tempat ibadah, teater, dan wahana rekreasi menyenangkan lainnya."
+  },
+  {
+    "name" : "Monumen Nasional",
+    "address" : "Monumen Nasional, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.175388,
+    "longitude" : 106.827236,
+    "phone" : "(021) 3822255",
+    "imageLink" : "https://storage.googleapis.com/tempatwisataunik/2016/01/Monas-Jakarta-300x222.jpg",
+    "description" : "Monas adalah monumen peringatan untuk mengenang perjuangan bangsa Indonesia dalam merebut kemerdekaan dan memberi perlawanan kepada penjajah Belanda. Monas memiliki tinggi 132 meter atau 433 kaki.Monumen dan museum yang ada di dalamnya buka setiap hari mulai dari pukul 08.00-15.00. Pada hari Senin di minggu terakhir Monumen ditutup setiap bulannya."
+  },
+  {
+    "name" : "Taman Impian Jaya Ancol",
+    "address" : "Jalan Lodan Timur No.7, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+    "latitude" : -6.125538,
+    "longitude" : 106.838163,
+    "phone" : "(021) 29222222",
+    "imageLink" : "https://d2ile4x3f22snf.cloudfront.net/wp-content/uploads/sites/228/2017/12/06033237/Ancol.jpg",
+    "description" : "Taman Impian Jaya Ancol berdiri di atas lahan seluas 552 hektar dengan lokasi yang dekat pantai terbaik di ibukota, dan dapat dicapai menggunakan transportasi apa saja, membuat obyek wisata ini sangat populer dan tak pernah sepi kunjungan wisatawan.Tempat dengan wahana permainan berteknologi tinggi, variasi permainan yang banyak, tak hanya permainan untuk anak saja melainkan juga bagi orang dewasa. Semua bisa kita temukan di Ancol dan merupakan tempat wisata yang cocok untuk anak muda."
+  },
+  {
+    "name" : "Museum Fatahillah",
+    "address" : "Jalan Taman Fatahillah No.1, Kota Tua, Pinangsia, Tamansari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110",
+    "latitude" : -6.135110,
+    "longitude" : 106.813168,
+    "phone" : "(021) 6929101",
+    "imageLink" : "https://thumbnails.trvl-media.com/op8erG1aOMSRqGTLzXmTqUEzEh4=/768x432/images.trvl-media.com/media/content/shared/images/travelguides/destination/1704/Jakarta-History-Museum-210341.jpg",
+    "description" : "Museum dengan nama populer 'Museum Fatahillah' ini menyimpan 23.500 koleksi barang bersejarah, baik dalam bentuk benda asli maupun replika.Berbagai koleksi yang ada dipamerkan dalam beberapa ruangan, sesuai periode asalnya.Pembagian ruangan ini dan penataan koleksi yang ada sangat mempertimbangkan aspek artistik dengan harapan dapat berfungsi seoptimal mungkin sebagai sumber informasi bagi masyarakat."
+  },
+  {
+    "name" : "Dunia Fantasi",
+    "address" : "Jalan Lodan Timur No.7, RW.10, Kota Tua, Ancol, Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+    "latitude" : -6.124542,
+    "longitude" : 106.832140,
+    "phone" : "(021) 29222222",
+    "imageLink" : "http://cdn2.tstatic.net/wartakota/foto/bank/images/dunia-fantasi_20171125_174536.jpg",
+    "description" : "Dunia Fantasi merupakan salah satu pelopor theme park di Indonesia yang berdiri di kawasan wisata Taman Impian Jaya Ancol sejak tahun 1985. Dengan berbagai wahana menarik dan menantang, Dunia Fantasi atau Dufan menyediakan pusat hiburan paling seru dan lengkap untuk didatangi bersama orang-orang tercinta."
+  },
+  {
+    "name" : "Kebun Binatang Ragunan",
+    "address" : "Jl. Harsono No.1, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta",
+    "latitude" : -6.311672,
+    "longitude" : 106.820170,
+    "phone" : "(021) 78847114",
+    "imageLink" : "https://www.menginspirasi.com/wp-content/uploads/2018/01/ragunan.jpg",
+    "description" : "Kebun Binatang Ragunan merupakan rumah bagi berbagai satwa yang terdiri dari 295 spesies. Di Ragunan pengelola juga tidak hanya memamerkan berbagai koleksi hewan mereka tetapi juga menyediakan wahana edukatif untuk para pengunjung terutama anak usia sekolah.Setidaknya ada 3 wahana yang ditawarkan yaitu Pusat Primata Schmutzer yang merupakan museum primata terlengkap, Dunia Orang Utan dengan koleksi berbagai jenis orang utan, dan Children Zoo tempat anak-anak berinteraksi langsung dengan hewan-hewan jinak."
+  }
+]
