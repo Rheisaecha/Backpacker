@@ -223,5 +223,156 @@
     "phone" : "(021) 29033066",
     "imageLink" : "https://www.jejakpiknik.com/wp-content/uploads/2017/09/5-raun2nomaden-630x380.jpg",
     "description" : "Di sini Anda dapat menyusuri hutan bakau sambil sesekali melihat beberapa fauna yang hidup di habitat aslinya. Salah satu fauna yang bisa ditemukan di sini adalah biawak. Jika menyewa kapal, pengemudi kapal biasanya hafal betuk di mana letak setiap biawak yang hidup di kawasan hutan bakau. Jangan lupa untuk mengabadikan setiap momen seru di sini, karena keindahan alam Angke Kapuk patut diabadikan dan dipajang di halaman Instagram Anda."
+  },
+  {
+  "name" : "Pantai Nglambor",
+    "address" : "Pantai, Purwodadi, Tepus, Gunung Kidul Regency, Special Region of Yogyakarta",
+    "latitude" : -8.182728,
+    "longitude" : 110.6792319,
+    "phone" : "0821-3469-2388",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521113239-3-pantai-nglambor-001-tantri-setyorini.jpg",
+    "description" : "Pantai Nglambor adalah tempatnya snorkeling. Disini anda bisa menikmati indahnya berenang bersama ikan beraneka warna. Bagi yang malas berenang, nglambor juga tetap memesona dengan airnya yang biru jernih dan berombak kecil. ",
+    "harga" : "Rp. 5.000(masuk), Rp. 30.000-50.000(snorkeling)"
+  },
+  {
+    "name" : "Jogja Bay Waterpark",
+    "address" : "Jl. Utara Stadion, Jenengan, Maguwoharjo, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
+    "latitude" : -7.748606,
+    "longitude" : 110.4188246,
+    "phone" : "(0274) 8722020",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521113240-4-jogja-bay-waterpark-001-tantri-setyorini.jpg",
+    "description" : "Jogja Bay Waterpark merupakan wahana air seluas 7.7 hektar yang mengusung tema bajak laut. Selain berbagai wahana air, setiap harinya ada pertunjukan bertema bajak laut.  ",
+    "harga" : "Rp. 50.000(anak), Rp. 90.000(dewasa)"
+  },
+  {
+    "name" : "Kebun Teh Nglinggo",
+    "address" : "Nglinggo Barat, Pagerharjo, Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55673",
+    "latitude" : -7.647668,
+    "longitude" : 110.141878,
+    "phone" : "0822-2622-8323",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521113240-5-kebun-teh-nglinggo-001-tantri-setyorini.jpg",
+    "description" : "Perkebunan ini menawarkan hawa yang sejuk, hamparan hijau pohon teh yang bikin adem dan pemandangan 8 gunung sekaligus. Terdapat pula homestay bagi yang ingin bermalam",
+    "harga" : "Rp. 3.000"
+  },
+  {
+    "name" : "Umbul Ponggok Klaten",
+    "address" : " Jl. Raya Ponggok-Delanggu, Ds Ponggok, Kec Polanharjo, Ponggok, Polanharjo, Kabupaten Klaten, Jawa Tengah 57474",
+    "latitude" : -7.6137353,
+    "longitude" : 110.635787,
+    "phone" : "0823-1438-8880",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521113240-6-umbul-ponggok-klaten-001-tantri-setyorini.jpg",
+    "description" : "Kolam natural dengan air biru jernih di Klaten ini menawarkan wisata underwater kekinian. Lengkap dengan aneka properti untuk foto keren di dasar. Wisatawan yang tak bisa berenang pun tetap bisa foto di sini.",
+    "harga" : "Rp8.000,00 (HTM), Rp13.000,00 (kacamata renang), Rp60.000,00-Rp100.000,00 (kamera underwater)"
+  },
+  {
+    "name" : "Tebing Breksi",
+    "address" : "Jl. Candi Ijo, Gn. Ciuk, Sambirejo, Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572",
+    "latitude" : -7.7820348,
+    "longitude" : 110.5054265,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521115544-7-tebing-breksi-001-tantri-setyorini.jpg",
+    "description" : "Tempat ini jadi salah satu destinasi wisata Jogja terpopuler di sepanjang tahun 2016 hingga 2017. Sesuai namanya, di daerah Tebing Breksi kita bisa menikmati keindahan tebing berukir yang sangat fotogenik.",
+    "harga" : "Gratis"
+  },
+  {
+    "name" : "Hutan Mangrove Kulon Progo",
+    "address" : "Pasir Mendit, Jangkaran, Temon, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55654",
+    "latitude" : -7.8933459,
+    "longitude" : 110.0198257,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521122656-8-hutan-mangrove-kulon-progo-001-tantri-setyorini.jpg",
+    "description" : "Wisata Jogja yang satu ini berupa kawasan mangrove atau bakau di desa pasir mendit Temon. Menyadari besarnya potensi wisata mangrove, warga setempat sepakat untuk mengelola tempat ini dengan menambahkan banyak spot keren untuk foto.",
+    "harga" : "Rp. 4.000"
+  },
+  {
+    "name" : "Pasar Beringharjo",
+    "address" : "Jalan Margo Mulyo No.16, Ngupasan, Gondomanan, Ngupasan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
+    "latitude" : -7.7989538,
+    "longitude" : 110.3672796,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521122658-23-pasar-beringharjo-002-tantri-setyorini.jpg",
+    "description" : "Inilah destinasi wisata Jogja yang paling pas buat pecinta belanja. Pasar Beringharjo memang paling terkenal buat kulakan batik. Tetapi sebenarnya di sini ada berbagai macam oleh-oleh yang bisa dibeli. Mulai dari kaos oblong, totebag, dress batik, pouch, seprai, sandal batik, jamu, sampai suvenir pernikahan.",
+    "harga" : "Variatif"
+  },
+  {
+    "name" : "Pantai Pok Tunggal",
+    "address" : "Special Region of Yogyakarta",
+    "latitude" : -8.1554468,
+    "longitude" : 110.6217582,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521115544-8-pantai-pok-tunggal-002-tantri-setyorini.jpg",
+    "description" : "Pok Tunggal merupakan salah satu wisata Jogja andalan Gunung Kidul. Pantai cantik yang dikelilingi batu karang ini merupakan tempat yang cocok untuk menikmati keindahan sunset.",
+    "harga" : "Rp3.000,00 (motor), Rp5.000,00 (mobil), Rp15.000,00 (minibus)"
+  },
+  {
+    "name" : "Goa Kali Suci",
+    "address" : "Jalan Kalisuci, Jonge, Pacarejo, Semanu, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55893",
+    "latitude" : -8.0113471,
+    "longitude" : 110.6336112,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521115544-9-goa-kalisuci-001-tantri-setyorini.jpg",
+    "description" : "Berlokasi di Wonosari, Gunung Kidul, Goa Kalisuci merupakan tempat berwisata jelajah sungai dan gua. Di sini pengunjung yang datang dalam satu grup bisa menikmati asyiknya rafting dan cave tubing seperti di Goa Pindul.",
+    "harga" : "Rp. 75.000"
+  },
+  {
+    "name" : "Taman Sari",
+    "address" : "Wisata Taman Sari, Taman, Patehan, Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55133",
+    "latitude" : -7.8100892,
+    "longitude" : 110.3594453,
+    "phone" : "0817-265-343",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521115544-10-taman-sari-001-tantri-setyorini.jpg",
+    "description" : "Berlibur ke Yogyakarya belum lengkap tanpa menikmati keindahan arsitektur Kesultanan Yogyakarta. Salah satu situs yang paling tepat untuk menikmati seni arsitektur ini tentu saja Taman Sari. Pemandian putri-putri keraton ini memang eksotis. Kondisi bangunannya juga masih terjaga. Tak heran kalau sering digunakan untuk sesi pemotretan profesional atau pre-wedding.",
+    "harga" : "Rp. 3.000"
+  },
+  {
+    "name" : "Kalibiru Kulon Progo",
+    "address" : "Jalan Waduk Sermo, Kokap, Hargowilis, Kalibiru, Hargowilis, Kokap, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55653",
+    "latitude" : -7.8057305,
+    "longitude" : 110.127969,
+    "phone" : "0813-9294-7249",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521113240-7-kalibiru-001-tantri-setyorini.jpg",
+    "description" : "Kalibiru merupakan tempat yang asyik untuk trekking dengan latar pepohonan asri. Tetapi tujuan utama para traveler ke sini biasanya untuk menikmati sunset di atas pijakan yang sengaja dipasang di atas pohon. Dari titik tersebut kita juga bisa melihat Waduk Sermo dari kejauhan.",
+    "harga" : "Rp. 3.000"
+  },
+   {
+    "name" : "Jurang Tembelan",
+    "address" : "Mangunan, Dlingo, Bantul Regency, Special Region of Yogyakarta 55783",
+    "latitude" : -7.9401626,
+    "longitude" : 110.4299163,
+    "phone" : "0818-0409-6352",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521124256-15-jurang-tembelan-001-tantri-setyorini.jpg",
+    "description" : "Di kawasan Kebun Buah Mangunan juga ada Jurang Tembelan yang banyak dicari pecinta fotografi. Gardu pandangnya berbentuk kapal dengan latar hamparan pegunungan dan ngarai sungai yang bernuansa magis.",
+    "harga" : "Gratis"
+  },
+   {
+    "name" : "Alun-alun Kidul",
+    "address" : "Daerah Istimewa Yogyakarta 55133",
+    "latitude" : -7.8118853,
+    "longitude" : 110.3638144,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521122657-17-alun-alun-kidul-yogyakarta-001-tantri-setyorini.jpg",
+    "description" : "Ini, lho wisata Jogja yang murah meriah dan mudah dijangkau. Alun-Alun Kidul yang merupakan halaman belakang Keraton Kesultanan Yogyakarta. Di sinilah pohon beringin kembar yang legendaris itu berada. Biasanya wisatawan yang penarasan mencoba tradisi masangin, melewati kedua pohon raksasa itu dengan mata tertutup. Meskipun terlihat mudah, ternyata banyak yang gagal, lho.",
+    "harga" : "Gratis"
+  },
+   {
+    "name" : "Malioboro",
+    "address" : "Daerah Istimewa Yogyakarta 55133",
+    "latitude" : -7.79265,
+    "longitude" : 110.3658877,
+    "phone" : "-",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521122657-22-malioboro-001-tantri-setyorini.jpg",
+    "description" : "Dengan menelusuri sepanjang jalan Malioboro yang padat itu kita bisa menemukan berbagai jenis oleh-oleh, karya seniman lokal, dan jajanan enak. Banyak tukang becak dan tukang delman yang sedikit ngotot menawarkan jasa mereka, jadi Anda harus tetap sabar meskipun harus menolak berkali-kali.",
+    "harga" : "Gratis"
+  },
+    {
+    "name" : "Taman Pintar Yogyakarta",
+    "address" : "Jl. Panembahan Senopati No.1-3, Ngupasan, Gondomanan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55122",
+    "latitude" : -7.8007901,
+    "longitude" : 110.3673822,
+    "phone" : "(0274) 583631",
+    "imageLink" : "https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/21/978617/content_images/670x335/20180521122658-26-taman-pintar-001-tantri-setyorini.jpg",
+    "description" : "Di sisi timur Benteng Verdeburg ada Tampin yang menawarkan wisata edukasi dalam bentuk permainan. Ada Gedung Oval, Gedung Kotak, Gedung Planetarium, Gedung Paud, Theater 3D, dan Kampung Kerajinan di mana anak-anak bisa bermain sambil belajar.",
+    "harga" : "Rp15.000,00 (pelajar), Rp20.000,00 (dewasa)"
   }
+]
 ]
